@@ -1,0 +1,21 @@
+body {
+    width: 640px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+article {
+    background-color: rgb(67, 3, 131);
+    text-align: center;
+    margin: -2px;
+}
+
+.contenedor {
+    border: 2px solid black;
+    background-color: #cccccc;
+    border-radius: 5px 5px 5px 5px;
+    padding: 2px;
+}
